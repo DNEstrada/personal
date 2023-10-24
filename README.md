@@ -1,2 +1,2 @@
 # personal
-Personal projects
+This is my personal project.
